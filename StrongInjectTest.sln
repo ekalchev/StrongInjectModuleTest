@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrongInjectTest", "StrongInjectTest\StrongInjectTest.csproj", "{C78F76F8-1147-4395-B943-1D448D65983E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{5D6CE4F2-9CEE-4777-8F7D-C9CDB5FD2380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78F76F8-1147-4395-B943-1D448D65983E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78F76F8-1147-4395-B943-1D448D65983E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78F76F8-1147-4395-B943-1D448D65983E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78F76F8-1147-4395-B943-1D448D65983E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6CE4F2-9CEE-4777-8F7D-C9CDB5FD2380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6CE4F2-9CEE-4777-8F7D-C9CDB5FD2380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6CE4F2-9CEE-4777-8F7D-C9CDB5FD2380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6CE4F2-9CEE-4777-8F7D-C9CDB5FD2380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86022F6-906B-4AA2-8E56-C428C6D4326F}
+	EndGlobalSection
+EndGlobal
